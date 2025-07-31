@@ -189,7 +189,8 @@ const std::map<int32_t, std::string> playlistNames = {
     { 82,   "Pizza Party" },
     { 83,   "Push The Puck" },
     { 84,   "Possession Rumble" },
-    { 86,   "Adidas Soccar Strike" }
+    { 86,   "Adidas Soccar Strike" },
+    { 87,   "Demolition Duel" },
 };
 
 const std::vector<int32_t> formatThesePlaylists = {
