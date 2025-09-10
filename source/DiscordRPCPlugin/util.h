@@ -47,6 +47,7 @@ const std::map<std::string, std::string> mapNames = {
     { "labs_holyfield_space_p",  "Force Field" },
     { "labs_octagon_02_p",       "Octagon (New)" },
     { "labs_octagon_p",          "Octagon (Old)" },
+    { "labs_octagon_p",          "Octagon (Roadblock)" },
     { "labs_pillarglass_p",      "Hourglass" },
     { "labs_pillarheat_p",       "Barricade" },
     { "labs_pillarwings_p",      "Colossus" },
@@ -191,6 +192,7 @@ const std::map<int32_t, std::string> playlistNames = {
     { 84,   "Possession Rumble" },
     { 86,   "Adidas Soccar Strike" },
     { 87,   "Demolition Duel" },
+    { 88,   "Jump Jam" },
 };
 
 const std::vector<int32_t> formatThesePlaylists = {
