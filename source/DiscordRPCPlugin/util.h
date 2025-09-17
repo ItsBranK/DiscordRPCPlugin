@@ -34,6 +34,8 @@ const std::map<std::string, std::string> mapNames = {
     { "ko_calavera_p",           "Calavera" },
     { "ko_carbon_p",             "Carbon" },
     { "ko_quadron_p",            "Quadron" },
+    { "labs_4v4_arena15_retro_p ","Sunset Dunes (Quads)" },
+    { "labs_4v4_arena15_blackout_p","Midnight Metro (Quads)" },
     { "labs_basin_p",            "Basin" },
     { "labs_circlepillars_p",    "Pillars" },
     { "labs_corridor_p",         "Corridor" },
