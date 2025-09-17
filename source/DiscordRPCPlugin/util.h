@@ -53,6 +53,7 @@ const std::map<std::string, std::string> mapNames = {
     { "labs_pillarwings_p",      "Colossus" },
     { "labs_underpass_P",        "Underpass" },
     { "labs_utopia_P",           "Utopia Retro" },
+    { "mall_day_p",              "Boostfield Mall" },
     { "music_p",                 "Neon Fields" },
     { "neotokyo_arcade_p",       "Neo Tokyo (Arcade)" },
     { "neotokyo_p",              "Tokyo Underpass" },
